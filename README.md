@@ -22,3 +22,9 @@ Como utilizar? O jogador deve selecionar dois quadrados na grade para compará-l
 
 Desenvolvido por:
 Thales Roberto da Cunha Borsatto e Gabriel Montenegro Di Domenico 
+
+DESAFIO - MÓDULO 4
+
+Como utilizar? Ao abrir o programa, três sprites são exibidos na tela: o fundo de um coliseu e dois guerreiros posicionados em lados opostos. Cada sprite utiliza uma textura carregada de arquivos externos e é desenhado com transformação de posição, escala e rotação, utilizando shaders personalizados e projeção ortográfica.
+
+Desenvolvido por: Thales Roberto da Cunha Borsatto
