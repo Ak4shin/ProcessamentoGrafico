@@ -28,3 +28,10 @@ DESAFIO - MÓDULO 4
 Como utilizar? Ao abrir o programa, três sprites são exibidos na tela: o fundo de um coliseu e dois guerreiros posicionados em lados opostos. Cada sprite utiliza uma textura carregada de arquivos externos e é desenhado com transformação de posição, escala e rotação, utilizando shaders personalizados e projeção ortográfica.
 
 Desenvolvido por: Thales Roberto da Cunha Borsatto
+
+DESAFIO - MÓDULO 5
+
+Como utilizar? Os controles do personagem são feitos por meio das teclas WASD. Há restrições que impedem o personagem de ultrapassar os limites superiores e inferiores do cenário, respeitando os elementos visuais como a parede e o penhasco. Para evitar que o personagem ultrapasse os limites laterais da janela, foi implementado um sistema onde, ao atingir essas bordas, o fundo começa a se mover, criando a ilusão de que o personagem continua andando normalmente.
+
+Desenvolvido por: Thales Roberto da Cunha Borsatto
+
